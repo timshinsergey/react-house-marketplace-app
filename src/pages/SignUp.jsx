@@ -105,7 +105,7 @@ function SignUp() {
           </Link>
 
           <div className='signUpBar'>
-            <p className='signUpText'>Sign In</p>
+            <p className='signUpText'>Sign Up</p>
             <button className='signUpButton'>
               <ArrowRightIcon fill='#fff' width='34px' height='34px' />
             </button>
